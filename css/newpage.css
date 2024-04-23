@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(212, 212, 193);
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+ol li {
+    font-weight: bold;
+    text-align: center;
+}
+
+ul li {
+    font-weight: normal ;
+    color: rgb(59, 59, 59);
+}
+
+.styled-div {
+    background-color: #ffffff5f; 
+    padding: 10px; 
+    margin-bottom: 10px; 
+    border: 1px solid #ccc;
+}
+
+.tableau-div{
+   text-align: center;
+   margin: 20px;
+}
